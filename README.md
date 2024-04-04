@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**dalsu0222/dalsu0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20Ajin's%20Github%20🐼&fontSize=25&fontAlign=70">
+  <br>
+  <a href="https://solved.ac/candysaj/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=candysaj"></a>
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdalsu0222&count_bg=%23FED5FF&title_bg=%23FDA3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
+  <br>
+  <h3>✨ Tech Stack ✨</h3>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/react navite-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dalsu0222&show_icons=true&theme=cobalt"></img>
+  <br>
+</div>
