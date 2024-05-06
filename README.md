@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <br>
+  <h3>✍🏻 SNS ✍🏻</h3>
+<a href="https://developer-dalsu.tistory.com/"><img src="https://img.shields.io/badge/dalsu0222-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<br>
   <br>
   <a href="https://solved.ac/candysaj/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=candysaj"></a>
   <br>
