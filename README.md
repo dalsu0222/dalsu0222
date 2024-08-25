@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <br/>
-  <h3>✍🏻 SNS ✍🏻</h3>
+  <h3>🐼 About Me 🐼</h3>
 <a href="https://developer-dalsu.tistory.com/"><img src="https://img.shields.io/badge/dalsu0222-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <br>
   <br>
