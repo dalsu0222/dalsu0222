@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**dalsu0222/dalsu0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 신아진 (Ajin Shin)
 
-Here are some ideas to get you started:
+📩 [ajin_shin@kolon.com](mailto:ajin_shin@kolon.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 경력
+
+- 코오롱베니트 시스템 개발 (솔루션사업팀 IFRS 파트, 주임) (2026.07 ~ 현재)
+- 코오롱베니트 시스템 개발 인턴 (2026.04 ~ 2026.06)
+
+### 🎓 교육
+
+- 세종대학교 지능기전공학부 스마트기기공학전공 (2021.03 ~ 2024.08)
+- 프로그래머스 데브코스 클라우드 기반 프론트엔드 엔지니어링 (2024.07 ~ 2024.12)
+- 삼성청년SW·AI아카데미 (2025.01 ~ 2025.12)
+
+### 📜 자격증
+
+- 정보처리기사 (2025.09.12)
+- SQLD (2025.09.19)
+
+### 🌐 어학
+
+- TOEIC Speaking 160점 (2025.09.24)
